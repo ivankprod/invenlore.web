@@ -6,7 +6,7 @@ export default function Home() {
     <main className={styles.main}>
       <Image
         className={styles.logo}
-        src="/logotype.jpg"
+        src="/logotype-web.png"
         alt="invenlore.io"
         width={800}
         height={196}
